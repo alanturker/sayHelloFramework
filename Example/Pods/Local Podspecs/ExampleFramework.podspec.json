@@ -1,0 +1,22 @@
+{
+  "name": "ExampleFramework",
+  "version": "0.1.0",
+  "summary": "A short description of ExampleFramework.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/alanturker/ExampleFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "alanturker": "alanturker@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/alanturker/ExampleFramework.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "ExampleFramework/Classes/**/*"
+}
